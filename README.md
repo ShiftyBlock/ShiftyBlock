@@ -1,3 +1,4 @@
+![bongocat](https://github.com/Confucius52/Confucius52/blob/main/bongocat.gif)
 # Hello 👋
 
 I am a brik 🧱.
