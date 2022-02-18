@@ -1,43 +1,34 @@
 ![bongocat](https://github.com/Confucius52/Confucius52/blob/main/bongocat.gif)
 # Salut 👋
 
-Je souhait être ton ami. 
+Je souhaite être ton ami. 
 
 ## 🔭 Quoi suis-je travailler maintenant 
 
 le biologie
 
-## 📢 Hi
+## 📢 Bonjour
 
-Hi
+Bonjour
 
-## 💬 Ask me about...
+## 💬 Demande-moi...
 
 Anything!
 
 ### ℹ FAQ
 
-#### 📟 Do you program?
+#### 📟 Tu aime l'informatique?
 
-Yes.
+Ouais.
 
-#### 👨‍🏫 Do you teach?
+#### 👨‍🏫 Enseigne-tu?
 
-Yes.
+Oui.
 
-#### 🎥 Are you good at USACO?
+#### 🎥 Est-ce que ton niveau de USACO très bon?
 
-Maybe.
+Assez bon.
 
-## 📫 How to reach me:
-
-Inspect Element
-
-## 😄 Pronouns:
-
-Pet Cow.
-
-## ⚡ Fun fact:
 
 Nothing is fun in life.
 
