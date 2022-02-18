@@ -1,19 +1,19 @@
 ![bongocat](https://github.com/Confucius52/Confucius52/blob/main/bongocat.gif)
-# Hello 👋
+# Salut 👋
 
-I am a brik 🧱.
+Je souhait être ton ami. 
 
-## 🔭 I’m currently working on 
+## 🔭 Quoi suis-je travailler maintenant 
 
-Nothing at all. Why bother? 
+le biologie
 
-## 📢 USACO Classes: https://usacotutor.com 
+## 📢 Hi
 
-Free Backlink ig.
+Hi
 
 ## 💬 Ask me about...
 
-Go away. 
+Anything!
 
 ### ℹ FAQ
 
@@ -27,11 +27,11 @@ Yes.
 
 #### 🎥 Are you good at USACO?
 
-No. There are 10% of the USACO population better than me. I wouldn't consider myself good.
+Maybe.
 
 ## 📫 How to reach me:
 
-Don't.
+Inspect Element
 
 ## 😄 Pronouns:
 
