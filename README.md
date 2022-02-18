@@ -30,6 +30,3 @@ Oui.
 Assez bon.
 
 
-Nothing is fun in life.
-
-
