@@ -1,6 +1,8 @@
 ![bongocat](https://github.com/Confucius52/Confucius52/blob/main/bongocat.gif)
 # Salut 👋
 
+mise à jour (4 novembre 2024): J'ai deux amis proches. Je les aimes beaucoup.
+
 Je souhaite être ton ami. Pour être honnetre, je n'ai pas beaucoup amis. Je connais beaucoup copains, mais pas amis. J'ai juste cinq amis, deux d'entre eux sont des amis en ligne. Si tu voudrait être mon ami, nous devons parler. Je peut acheter les boires et nourritures. Allons au starbucks!
 
 ## 🔭 Quoi suis-je travailler maintenant 
